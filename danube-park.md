@@ -2,12 +2,12 @@
 为一个新景点【Danube Park】构建静态/Next.js 单页指南网站。
 页面只需要支持中文和英文双语言
 
-评价：4.7(17,552)
+评价：4.7(17,559)
 地址：Dunavska 31, Novi Sad, Serbia
 
 
 
-谷歌地图位置：https://maps.app.goo.gl/qdYkYweFBppxG6SM9
+谷歌地图位置：https://maps.app.goo.gl/E6HawmK7Vd49MgbS9
 
 
 
@@ -52,13 +52,13 @@
 
 冬季的“冰雪森林”滑冰场及租借冰鞋需单独购票。  
 
-\*\*【地址】\*\* Dunavska, Novi Sad 21000, Serbia  
+**【地址】** Dunavska 31, Novi Sad, Serbia  
 
 \*\*【联系电话】\*\* +381-21-661-7343 (诺维萨德旅游局)  
 
-\*\*【谷歌地图】\*\* \[https://maps.app.goo.gl/2X8Y7L9K3J2H1G7](https://maps.app.goo.gl/2X8Y7L9K3J2H1G7)  
+\*\*【谷歌地图】\*\* \[https://maps.app.goo.gl/E6HawmK7Vd49MgbS9](https://maps.app.goo.gl/E6HawmK7Vd49MgbS9)  
 
-\*\*【综合评分】\*\* 4.8（约 18,000 条真实评价）  
+\*\*【综合评分】\*\* 4.7（17,559 条真实评价）  
 
 \*\*【交通方式】\*\* \* \*\*步行（极度推荐）：\*\* 公园直接连接着诺维萨德老城最著名的步行街——多瑙河街（Dunavska）。从市中心的自由广场（Trg Slobode）步行仅需 5-8 分钟即可抵达公园正门；穿过公园向东步行 5 分钟，即可到达多瑙河畔与彼得罗瓦拉丁堡垒（Petrovaradin Fortress）的跨河大桥。
 

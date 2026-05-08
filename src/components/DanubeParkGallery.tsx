@@ -91,7 +91,7 @@ export default function DanubeParkGallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/qdYkYweFBppxG6SM9"
+                href="https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

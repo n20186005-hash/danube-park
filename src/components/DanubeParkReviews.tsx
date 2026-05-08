@@ -89,7 +89,7 @@ export default function DanubeParkReviews() {
 
         <div className="mt-8 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/qdYkYweFBppxG6SM9"
+            href="https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm hover:underline"

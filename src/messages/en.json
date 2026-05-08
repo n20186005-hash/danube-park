@@ -255,8 +255,8 @@
     "hero": {
       "title": "Danube Park",
       "subtitle": "Dunavski park · Novi Sad's Urban Oasis & Natural Landmark",
-      "rating": "4.8(18,000)",
-      "reviewCount": "18,000 reviews",
+      "rating": "4.7(17,559)",
+      "reviewCount": "17,559 reviews",
       "hours": "Open year-round, 24 hours",
       "openMaps": "View Location"
     },
@@ -352,7 +352,7 @@
     },
     "mapSection": {
       "title": "How to Get Here",
-      "subtitle": "Dunavska, Novi Sad 21000, Serbia",
+      "subtitle": "Dunavska 31, Novi Sad, Serbia",
       "openMaps": "View on Google Maps"
     },
     "footer": {

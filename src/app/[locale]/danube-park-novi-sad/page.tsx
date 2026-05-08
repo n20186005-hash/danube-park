@@ -24,7 +24,7 @@ export default async function DanubeParkPage({
         <Hero 
           imageSrc="/gallery/images (1).jpg"
           imageAlt="Danube Park"
-          mapsLink="https://maps.app.goo.gl/qdYkYweFBppxG6SM9"
+          mapsLink="https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
         />
         <DanubeParkIntro />
         <DanubeParkInfoSection />

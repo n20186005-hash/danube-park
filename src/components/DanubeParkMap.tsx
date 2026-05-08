@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
 export default function DanubeParkMap() {
-  const t = useTranslations('mapSection');
+  const t = useTranslations('danubePark.mapSection');
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -39,7 +39,7 @@ export default function DanubeParkMap() {
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/qdYkYweFBppxG6SM9"
+            href="https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
