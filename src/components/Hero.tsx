@@ -10,8 +10,8 @@ interface HeroProps {
 
 export default function Hero({ 
   imageSrc = '/gallery/images (1).jpg', 
-  imageAlt = 'Hero image',
-  mapsLink = 'https://maps.app.goo.gl/cCCbQsPnaB1Vrnqp9'
+  imageAlt = 'Danube Park',
+  mapsLink = 'https://maps.app.goo.gl/E6HawmK7Vd49MgbS9'
 }: HeroProps) {
   const t = useTranslations('hero');
 

@@ -1,80 +1,79 @@
 {
   "meta": {
-    "title": "Mont des Arts | Brussels",
-    "description": "Complete guide to Mont des Arts in Brussels, Belgium. Hours, directions, photos and reviews."
+    "title": "Danube Park Dunavski park | Novi Sad's Urban Oasis & Natural Landmark",
+    "description": "Complete guide to Danube Park in Novi Sad, Serbia. Hours, directions, photos and reviews."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home",
-    "danubePark": "Danube Park"
+    "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Mont des Arts",
-    "subtitle": "Brussels' most beautiful skyline & cultural heart",
-    "rating": "4.6(5,892)",
-    "reviewCount": "5,892 reviews",
-    "hours": "Open 24 hours",
+    "title": "Danube Park",
+    "subtitle": "Dunavski park · Novi Sad's Urban Oasis & Natural Landmark",
+    "rating": "4.7(17,559)",
+    "reviewCount": "17,559 reviews",
+    "hours": "Open year-round, 24 hours",
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Discover Mont des Arts",
-    "description": "Mont des Arts is the crowning achievement of Brussels' urban planning, symbolizing Belgium's modernization and national identity. It is one of the most successful urban public spaces in Europe. The terraced gardens and modernist glass buildings create a flowing perspective overlooking the old town, like a floating palace of art.",
+    "title": "Discover Danube Park",
+    "description": "If Petrovaradin Fortress is Novi Sad's hard armor, then Danube Park is its softest heart. As you walk to the end of the colorful Dunavska pedestrian street with its Austro-Hungarian charm, a vast expanse of greenery will instantly surround you, and the city's noise seems to be silenced by magic.",
     "visitGuide": {
       "title": "Visit Guide",
       "items": [
-        "The open square and gardens are open 24 hours, with the best light at dawn and dusk",
-        "Surrounding venues like the Royal Library and BOZAR have varying hours, generally 10am-5pm",
-        "Most venues are closed on Mondays, but the square itself is quieter in the early morning",
-        "Winter light shows extend hours to midnight during December"
+        "The park is open 24 hours; early morning offers peaceful bird songs, evenings are perfect for strolls with locals",
+        "Visit any season: spring and summer offer lush shade; autumn brings poetic fallen leaves",
+        "Winter (December-January) transforms into 'Ice Forest' outdoor skating rink; highly recommended for evening visits",
+        "The entire park is flat and wheelchair/stroller friendly"
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Square, Viewing Platform & Arts District",
-        "One of Europe's most successful public spaces",
-        "Perfect blend of neoclassical and modernist architecture"
+        "Novi Sad's oldest and most beautiful park, designated as a Category II Natural Monument in 1998",
+        "Covers approximately 33,600 square meters with 250+ plant species and century-old trees",
+        "Serene artificial lake at the center, home to swans, ducks, and turtles"
       ]
     }
   },
   "knowledge": {
-    "title": "Explore the Wonders of Mont des Arts",
+    "title": "Explore the Wonders of Danube Park",
     "sections": [
       {
         "id": "history",
         "title": "Historical Significance",
-        "content": "Mont des Arts represents the pinnacle of Brussels urban planning, symbolizing Belgium's modernization and national identity. In the late 19th century, King Leopold II envisioned transforming this hillside into a grand commemorative district. After decades of debate and delays, the project was finally completed after World War II, but with a transformed purpose: creating a public space for ordinary citizens to enjoy panoramic city views rather than glorifying monarchy."
+        "content": "Danube Park is Novi Sad's oldest, most beautiful, and most photographed park. It is not only the city's 'green lung' but was also designated as a Category II Natural Monument by the Serbian government in 1998, representing Vojvodina's profound garden culture. It's hard to imagine that this beautiful oasis was once a muddy marsh and reed-filled stagnant water (called Liman) formed by Danube flooding before the late 19th century. In 1895, city planners decided to fill in the marsh, lay dirt roads, and plant the first trees, marking the birth of Danube Park."
       },
       {
         "id": "architecture",
         "title": "Architectural Features",
-        "content": "The design centers on cascading terraced gardens and modernist glass buildings, creating a flowing perspective from above that overlooks the old town. The combination of neoclassical palace elements and 20th-century modernist simplicity presents an eclectic style that is both solemn and light. The Royal Library, BOZAR and other buildings are positioned at the edge of the square with carefully controlled heights, like a picture frame for the old town."
+        "content": "As a landscape park, its core feature is the combination of rich natural ecology and human sculptures. The park covers approximately 33,600 square meters with a serene artificial lake with a small island at its center (often home to swans, ducks, and turtles). The grounds are adorned with over 250 plant species including birches, plane trees, and oaks. Additionally, the park features bronze busts of famous Serbian poets and cultural figures (such as Đura Jakšić, Miroslav Antić), and an elegantly classical white music pavilion (Saletla)."
       },
       {
         "id": "culture",
         "title": "Cultural Value",
-        "content": "Mont des Arts witnesses the transformation from royal privilege to civic culture. Today it is a gathering place for photography enthusiasts, street artists and tourists, representing Brussels' open and inclusive cultural DNA. The square has undergone two major renovations in the 1990s, adding modern lighting designs and sculptures, but its essential character remains unchanged."
+        "content": "Danube Park perfectly embodies Novi Sad's proud 'Lagano' (leisurely, slow-paced) philosophy of life. It is a playground for children, a dating spot for young people, and a card room for the elderly. Classical or jazz performances are often held in the pavilion during summer; the skating rink in winter becomes a carnival for families across the city. This is the best window into the gentle character of the Vojvodina plain."
       },
       {
         "id": "route",
         "title": "Recommended Walking Route",
-        "content": "Start at the highest point of the square around 10am for panoramic city views and the energy of morning commerce. Descend the main staircase to reach the central fountain. Stroll through the gardens to discover contemporary sculptures and hidden galleries. Finally, visit the Royal Library or BOZAR for internal exhibitions. This route takes about 2 hours, but can easily extend to half a day if you get captivated as I did."
+        "content": "Recommended visit time is about 45 minutes to 1 hour. Use it as a transit point connecting the old town with the Danube riverside. Enter from Dunavska street, walk around the lake, admire the sculptures and plants, then exit from the east side to the Danube riverside. Route: ① Dunavska Entrance → ② White Music Pavilion (street performances possible on weekends) → ③ Poet Statue Walkway (find Miroslav Antić bronze bust) → ④ Central Lake & Swans → ⑤ Century-Old Tree Area → ⑥ East Exit (toward the Danube)"
       }
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Stunning views of Brussels' cultural heart",
+    "subtitle": "Stunning views of Novi Sad's urban oasis",
     "captions": [
-      "Panoramic view of Mont des Arts",
-      "Terraced gardens and old town",
-      "Central fountain",
-      "View from the upper plaza",
-      "Evening golden light",
-      "Street musicians and artists"
+      "Panoramic view of Danube Park",
+      "Park entrance avenue",
+      "Lake with swans",
+      "White music pavilion",
+      "Tree-lined pathway",
+      "Poet's statue"
     ],
     "viewAll": "View locations on Google Maps"
   },
@@ -84,48 +83,49 @@
     "moreReviews": "View locations on Google Maps",
     "items": [
       {
-        "name": "Marie L.",
+        "name": "Ana M.",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "One of the most beautiful places in Novi Sad! When the cherry blossoms bloom in spring, it's like a fairy tale world. The swan lake is captivating."
+      },
+      {
+        "name": "Peter K.",
         "date": "March 2026",
         "rating": 5,
-        "text": "Absolutely magical at sunset! The way the golden light washes over the neoclassical buildings is unforgettable. A perfect spot for photography."
+        "text": "Walking among century-old trees, I felt the historical depth of this city. Strongly recommend coming at sunset."
       },
       {
-        "name": "James K.",
+        "name": "Li Wei",
         "date": "February 2026",
         "rating": 5,
-        "text": "One of the most beautiful public squares I've ever seen. The cascading gardens and views over Brussels are stunning. Free to visit!"
+        "text": "Walking from Dunavska Street, I was amazed by this green oasis. A perfect place to relax and unwind."
       },
       {
-        "name": "Sophie M.",
-        "date": "January 2026",
-        "rating": 4,
-        "text": "Great location with amazing views of the city. The surrounding museums are worth visiting. Come early morning for fewer crowds."
-      },
-      {
-        "name": "Thomas B.",
+        "name": "Milan J.",
         "date": "December 2025",
         "rating": 5,
-        "text": "The winter light show in December is breathtaking. The square transforms into a magical wonderland. Highly recommended!"
+        "text": "The Ice Forest skating rink in winter is amazing! The dazzling lights make you feel like you're in a fairy tale world. Highly recommended!"
       }
     ]
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "Mont des Arts 1, 1000 Brussels, Belgium",
+    "subtitle": "Dunavska 31, Novi Sad, Serbia",
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Mont des Arts Travel Guide · All rights reserved.",
+    "rights": "© 2026 Danube Park Travel Guide · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "tourism": "Visit Brussels",
-      "museums": "BOZAR Brussels",
-      "library": "Royal Library of Belgium"
+      "tourism": "Novi Sad Tourist Organization",
+      "museums": "Museum of Novi Sad",
+      "library": "Novi Sad Library"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "title": "Danube Park"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -191,8 +191,8 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Mont des Arts",
-    "text": "Mont des Arts is managed and maintained by the Brussels-Capital Region. As one of the most important public spaces in Brussels and even Belgium, the square represents the country's urban planning achievements. The surrounding museums and cultural institutions operate independently but share a commitment to preserving and showcasing Belgium's cultural heritage."
+    "title": "About Danube Park",
+    "text": "Danube Park is maintained by the Novi Sad City Parks Administration. As the most important urban green space in Novi Sad and the Vojvodina region, the park carries profound historical and cultural value. The music pavilion and poet statues within the park are jointly maintained by Novi Sad cultural institutions."
   },
   "info": {
     "title": "Essential Information",
@@ -200,22 +200,27 @@
       {
         "id": "hours",
         "title": "Opening Hours",
-        "content": "The Mont des Arts open square and gardens are open 24 hours a day, serving as Brussels' everyday leisure space. Night visits are possible, but the light is most beautiful at dawn and dusk. Surrounding venues like the Royal Library and BOZAR have varying hours, generally 10am-5pm, with most closed on Mondays. During the December winter light show, hours extend to midnight. It is recommended to avoid Sunday mornings when some venues are closed, but the square itself is actually quieter then."
+        "content": "The park is open 24 hours with unrestricted access to walkways and public areas. Visit any season: spring and summer offer lush shade; autumn brings poetic fallen leaves; winter (December-January) transforms into the 'Ice Forest' outdoor skating rink. Recommended to visit early morning for peaceful bird songs or evening for strolls with locals."
       },
       {
         "id": "tickets",
         "title": "Admission",
-        "content": "The Mont des Arts square itself is free and open to the public with no admission fee. Surrounding venues like the Magritte Museum, Museum of Ancient Art, and Royal Library require separate tickets, with adult tickets ranging from 8-15 euros. Students and seniors receive discounts, and the first Wednesday of each month offers free admission in the afternoon. The Brussels Card covers major venues, with a one-day pass around 30 euros."
+        "content": "Free entry to all areas with no admission fee. All public areas within the park are free to use. The 'Ice Forest' skating rink in winter and ice skate rentals require separate tickets."
       },
       {
         "id": "transport",
         "title": "Transportation",
-        "content": "From Brussels International Airport, take the airport express about 20 minutes to Brussels-Central Station, then walk about 5 minutes to Mont des Arts. From Brussels-South Station, take Metro Line 2 or 6 to Park Station, then walk through the Royal Park. A Brussels day pass is recommended, with single tickets at 2.5 euros and day passes at 8 euros. If walking from Grand Place, simply pass through the Galeries Royales Saint-Hubert and walk up the slope for about 10 minutes."
+        "content": "Walking (highly recommended): Just 5-8 minutes walk from Freedom Square (Trg Slobode) in the city center to the park's main entrance. Public transit: Multiple city bus lines stop near the park (such as 3, 6, 9, 11A, 11B). Driving/Taxi: Paid parking is available at the park's edges (red/blue zones by hourly rate). Taxi from the city center takes about 10 minutes."
+      },
+      {
+        "id": "contact",
+        "title": "Contact Information",
+        "content": "Phone: +381-21-661-7343 (Novi Sad Tourism Organization)\nAddress: Dunavska 31, Novi Sad, Serbia\nGoogle Maps: https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
       },
       {
         "id": "photography",
         "title": "Photography Tips",
-        "content": "The steps and ground tiles at Mont des Arts are mostly light gray and easily reflect strong light. A polarizing filter is recommended to reduce glare and reflections. Drones are prohibited in the square and will be stopped by security personnel. Street performers are active on weekends; please tip them 1-2 euros if you take photos. Best shooting spots: top level center facing the Town Hall tower for sunset shots; low-angle fountain shots for rainbow effects; the staircase for silhouette shots of people on the upper level."
+        "content": "Best photo spots: ① Weeping Willow & Lake: Stand by the lake with hanging willow branches as foreground, capturing swans and the green forest across. ② White Music Pavilion: Frame this elegant classical pavilion against lush green trees. ③ Tree-Lined Path: Use a telephoto lens at dawn or dusk to capture tall ancient trees extending into the distance. ④ Autumn Foliage Lawn: Late October to November, golden fallen leaves cover the ground, perfect for autumn romance photography.\nAdditional Notes: Natural light is fragmented by the canopy; watch for dappled shadows on faces when shooting portraits. Large commercial photography equipment (rails, multiple reflectors) is prohibited on walkways; casual travel photography is unrestricted."
       }
     ]
   },
@@ -223,205 +228,21 @@
     "title": "Where to Stay",
     "places": [
       {
-        "name": "Premium Value",
-        "description": "Boutique hotels converted from historic buildings on the edge of the old town. Rooms offer wide views overlooking Mont des Arts, with balconies for admiring the enchanting sunrise over rooftops."
+        "name": "Old Town Core",
+        "description": "The most convenient choice. Steps away from Dunavska pedestrian street and restaurants, just a short walk to the park, safe with rich historical atmosphere."
       },
       {
-        "name": "Design Choice",
-        "description": "Minimalist design apartments near BOZAR, blending concrete with wood in a Nordic style. Located in the heart of the arts district, just a short walk from Mont des Arts."
+        "name": "Danube Riverside",
+        "description": "Many apartments overlook the Danube and fortress at night while being close to the park's east side. Perfect for those who enjoy river views and morning runs."
       },
       {
-        "name": "Unique Experience",
-        "description": "A vintage residence hidden in a quiet alley downtown, converted from a century-old mansion with rich atmosphere. Enjoy warm hospitality with local snacks and beverages."
+        "name": "Below the Fortress",
+        "description": "Stay at the foot of the ancient fortress across the river. Cross the bridge and walk 10-15 minutes to the park, enjoying a quieter and more historic lodging atmosphere."
       },
       {
         "name": "Budget Option",
-        "description": "High-value budget hostel in the southeast of the city with convenient transportation. The terrace offers distant views of the Mont des Arts fountain. Relaxed evening atmosphere, perfect for travelers to mingle."
+        "description": "High-value accommodations on the city outskirts with convenient public transit. Suitable for budget-conscious travelers."
       }
     ]
-  },
-  "danubePark": {
-    "meta": {
-      "title": "Danube Park Dunavski park | Novi Sad's Urban Oasis & Natural Landmark",
-      "description": "Complete guide to Danube Park in Novi Sad, Serbia. Hours, directions, photos and reviews."
-    },
-    "header": {
-      "home": "Home",
-      "gallery": "Gallery",
-      "reviews": "Reviews",
-      "map": "Map",
-      "backToHome": "Back to Home"
-    },
-    "hero": {
-      "title": "Danube Park",
-      "subtitle": "Dunavski park · Novi Sad's Urban Oasis & Natural Landmark",
-      "rating": "4.7(17,559)",
-      "reviewCount": "17,559 reviews",
-      "hours": "Open year-round, 24 hours",
-      "openMaps": "View Location"
-    },
-    "intro": {
-      "title": "Discover Danube Park",
-      "description": "If Petrovaradin Fortress is Novi Sad's hard armor, then Danube Park is its softest heart. As you walk to the end of the colorful Dunavska pedestrian street with its Austro-Hungarian charm, a vast expanse of greenery will instantly surround you, and the city's noise seems to be silenced by magic.",
-      "visitGuide": {
-        "title": "Visit Guide",
-        "items": [
-          "The park is open 24 hours; early morning offers peaceful bird songs, evenings are perfect for strolls with locals",
-          "Visit any season: spring and summer offer lush shade; autumn brings poetic fallen leaves",
-          "Winter (December-January) transforms into 'Ice Forest' outdoor skating rink; highly recommended for evening visits",
-          "The entire park is flat and wheelchair/stroller friendly"
-        ]
-      },
-      "alsoKnownAs": {
-        "title": "Highlights",
-        "items": [
-          "Novi Sad's oldest and most beautiful park, designated as a Category II Natural Monument in 1998",
-          "Covers approximately 33,600 square meters with 250+ plant species and century-old trees",
-          "Serene artificial lake at the center, home to swans, ducks, and turtles"
-        ]
-      }
-    },
-    "knowledge": {
-      "title": "Explore the Wonders of Danube Park",
-      "sections": [
-        {
-          "id": "history",
-          "title": "Historical Significance",
-          "content": "Danube Park is Novi Sad's oldest, most beautiful, and most photographed park. It is not only the city's 'green lung' but was also designated as a Category II Natural Monument by the Serbian government in 1998, representing Vojvodina's profound garden culture. It's hard to imagine that this beautiful oasis was once a muddy marsh and reed-filled stagnant water (called Liman) formed by Danube flooding before the late 19th century. In 1895, city planners decided to fill in the marsh, lay dirt roads, and plant the first trees, marking the birth of Danube Park."
-        },
-        {
-          "id": "architecture",
-          "title": "Architectural Features",
-          "content": "As a landscape park, its core feature is the combination of rich natural ecology and human sculptures. The park covers approximately 33,600 square meters with a serene artificial lake with a small island at its center (often home to swans, ducks, and turtles). The grounds are adorned with over 250 plant species including birches, plane trees, and oaks. Additionally, the park features bronze busts of famous Serbian poets and cultural figures (such as Đura Jakšić, Miroslav Antić), and an elegantly classical white music pavilion (Saletla)."
-        },
-        {
-          "id": "culture",
-          "title": "Cultural Value",
-          "content": "Danube Park perfectly embodies Novi Sad's proud 'Lagano' (leisurely, slow-paced) philosophy of life. It is a playground for children, a dating spot for young people, and a card room for the elderly. Classical or jazz performances are often held in the pavilion during summer; the skating rink in winter becomes a carnival for families across the city. This is the best window into the gentle character of the Vojvodina plain."
-        },
-        {
-          "id": "route",
-          "title": "Recommended Walking Route",
-          "content": "Recommended visit time is about 45 minutes to 1 hour. Use it as a transit point connecting the old town with the Danube riverside. Enter from Dunavska street, walk around the lake, admire the sculptures and plants, then exit from the east side to the Danube riverside. Route: ① Dunavska Entrance → ② White Music Pavilion (street performances possible on weekends) → ③ Poet Statue Walkway (find Miroslav Antić bronze bust) → ④ Central Lake & Swans → ⑤ Century-Old Tree Area → ⑥ East Exit (toward the Danube)"
-        }
-      ]
-    },
-    "gallery": {
-      "title": "Photo Gallery",
-      "subtitle": "Stunning views of Novi Sad's urban oasis",
-      "captions": [
-        "Panoramic view of Danube Park",
-        "Park entrance avenue",
-        "Lake with swans",
-        "White music pavilion",
-        "Tree-lined pathway",
-        "Poet's statue"
-      ],
-      "viewAll": "View locations on Google Maps"
-    },
-    "reviews": {
-      "title": "Visitor Reviews",
-      "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-      "moreReviews": "View locations on Google Maps",
-      "items": [
-        {
-          "name": "Ana M.",
-          "date": "April 2026",
-          "rating": 5,
-          "text": "One of the most beautiful places in Novi Sad! When the cherry blossoms bloom in spring, it's like a fairy tale world. The swan lake is captivating."
-        },
-        {
-          "name": "Peter K.",
-          "date": "March 2026",
-          "rating": 5,
-          "text": "Walking among century-old trees, I felt the historical depth of this city. Strongly recommend coming at sunset."
-        },
-        {
-          "name": "Li Wei",
-          "date": "February 2026",
-          "rating": 5,
-          "text": "Walking from Dunavska Street, I was amazed by this green oasis. A perfect place to relax and unwind."
-        },
-        {
-          "name": "Milan J.",
-          "date": "December 2025",
-          "rating": 5,
-          "text": "The Ice Forest skating rink in winter is amazing! The dazzling lights make you feel like you're in a fairy tale world. Highly recommended!"
-        }
-      ]
-    },
-    "mapSection": {
-      "title": "How to Get Here",
-      "subtitle": "Dunavska 31, Novi Sad, Serbia",
-      "openMaps": "View on Google Maps"
-    },
-    "footer": {
-      "rights": "© 2026 Danube Park Travel Guide · All rights reserved.",
-      "privacy": "Privacy Policy",
-      "terms": "Terms of Service",
-      "cookies": "Cookie Settings",
-      "officialResourcesTitle": "Related Resources & Information",
-      "officialLinks": {
-        "tourism": "Novi Sad Tourist Organization",
-        "museums": "Museum of Novi Sad",
-        "library": "Novi Sad Library"
-      },
-      "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
-    },
-    "officialManagement": {
-      "title": "About Danube Park",
-      "text": "Danube Park is maintained by the Novi Sad City Parks Administration. As the most important urban green space in Novi Sad and the Vojvodina region, the park carries profound historical and cultural value. The music pavilion and poet statues within the park are jointly maintained by Novi Sad cultural institutions."
-    },
-    "info": {
-      "title": "Essential Information",
-      "sections": [
-        {
-          "id": "hours",
-          "title": "Opening Hours",
-          "content": "The park is open 24 hours with unrestricted access to walkways and public areas. Visit any season: spring and summer offer lush shade; autumn brings poetic fallen leaves; winter (December-January) transforms into the 'Ice Forest' outdoor skating rink. Recommended to visit early morning for peaceful bird songs or evening for strolls with locals."
-        },
-        {
-          "id": "tickets",
-          "title": "Admission",
-          "content": "Free entry to all areas with no admission fee. All public areas within the park are free to use. The 'Ice Forest' skating rink in winter and ice skate rentals require separate tickets."
-        },
-        {
-          "id": "transport",
-          "title": "Transportation",
-          "content": "Walking (highly recommended): Just 5-8 minutes walk from Freedom Square (Trg Slobode) in the city center to the park's main entrance. Public transit: Multiple city bus lines stop near the park (such as 3, 6, 9, 11A, 11B). Driving/Taxi: Paid parking is available at the park's edges (red/blue zones by hourly rate). Taxi from the city center takes about 10 minutes."
-        },
-        {
-          "id": "contact",
-          "title": "Contact Information",
-          "content": "Phone: +381-21-661-7343 (Novi Sad Tourism Organization)\nAddress: Dunavska 31, Novi Sad, Serbia\nGoogle Maps: https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
-        },
-        {
-          "id": "photography",
-          "title": "Photography Tips",
-          "content": "Best photo spots: ① Weeping Willow & Lake: Stand by the lake with hanging willow branches as foreground, capturing swans and the green forest across. ② White Music Pavilion: Frame this elegant classical pavilion against lush green trees. ③ Tree-Lined Path: Use a telephoto lens at dawn or dusk to capture tall ancient trees extending into the distance. ④ Autumn Foliage Lawn: Late October to November, golden fallen leaves cover the ground, perfect for autumn romance photography.\nAdditional Notes: Natural light is fragmented by the canopy; watch for dappled shadows on faces when shooting portraits. Large commercial photography equipment (rails, multiple reflectors) is prohibited on walkways; casual travel photography is unrestricted."
-        }
-      ]
-    },
-    "accommodation": {
-      "title": "Where to Stay",
-      "places": [
-        {
-          "name": "Old Town Core",
-          "description": "The most convenient choice. Steps away from Dunavska pedestrian street and restaurants, just a short walk to the park, safe with rich historical atmosphere."
-        },
-        {
-          "name": "Danube Riverside",
-          "description": "Many apartments overlook the Danube and fortress at night while being close to the park's east side. Perfect for those who enjoy river views and morning runs."
-        },
-        {
-          "name": "Below the Fortress",
-          "description": "Stay at the foot of the ancient fortress across the river. Cross the bridge and walk 10-15 minutes to the park, enjoying a quieter and more historic lodging atmosphere."
-        },
-        {
-          "name": "Budget Option",
-          "description": "High-value accommodations on the city outskirts with convenient public transit. Suitable for budget-conscious travelers."
-        }
-      ]
-    }
   }
 }

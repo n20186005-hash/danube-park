@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://montdesarts.org';
+  const baseUrl = 'https://danube-park.vercel.app';
 
   const zhUrl = `${baseUrl}/`;
   const enUrl = `${baseUrl}/en`;
@@ -36,7 +36,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: 'Mont des Arts',
+      siteName: 'Danube Park',
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
     },

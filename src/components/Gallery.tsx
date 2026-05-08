@@ -4,17 +4,14 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: '艺术山全景' },
-  { src: '/gallery/images (2).jpg', alt: '阶梯式花园' },
-  { src: '/gallery/images (3).jpg', alt: '中央喷泉' },
-  { src: '/gallery/images (4).jpg', alt: '上层广场视角' },
-  { src: '/gallery/images (5).jpg', alt: '傍晚金色时光' },
-  { src: '/gallery/images (6).jpg', alt: '新古典主义建筑' },
-  { src: '/gallery/images (7).jpg', alt: '皇家图书馆' },
-  { src: '/gallery/images (8).jpg', alt: '美术宫' },
-  { src: '/gallery/images (9).jpg', alt: '城市天际线' },
-  { src: '/gallery/images (10).jpg', alt: '布鲁塞尔风光' },
-  { src: '/gallery/images (11).jpg', alt: '广场夜景' },
+  { src: '/gallery/images (1).jpg', alt: '多瑙河公园全景' },
+  { src: '/gallery/images (2).jpg', alt: '公园入口' },
+  { src: '/gallery/images (3).jpg', alt: '人工湖与天鹅' },
+  { src: '/gallery/images (4).jpg', alt: '音乐凉亭' },
+  { src: '/gallery/images (5).jpg', alt: '林荫步道' },
+  { src: '/gallery/images (6).jpg', alt: '诗人雕像' },
+  { src: '/gallery/images (7).jpg', alt: '秋季落叶' },
+  { src: '/gallery/images (8).jpg', alt: '百年老树' },
 ];
 
 export default function Gallery() {
@@ -94,7 +91,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/cCCbQsPnaB1Vrnqp9"
+                href="https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

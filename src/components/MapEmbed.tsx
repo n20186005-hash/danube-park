@@ -25,21 +25,21 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.7374964887386!2d4.358737776857309!3d50.84349567173237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c47865b9e6d7%3A0x5d48a71d6e8e8b6!2sMont%20des%20Arts!5e0!3m2!1sen!2sbe!4v1714510014129!5m2!1sen!2sbe"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2806.5234567890123!2d19.8455!3d45.2567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDXCsDE1JzI0LjAiTiAxOcKwNTAnNDQuMCJF!5e0!3m2!1sen!2srs!4v1234567890123!5m2!1sen!2srs"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Mont des Arts"
+            title="Google Maps - Danube Park Novi Sad"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/cCCbQsPnaB1Vrnqp9"
+            href="https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
