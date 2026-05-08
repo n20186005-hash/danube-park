@@ -388,12 +388,17 @@
         {
           "id": "transport",
           "title": "Transportation",
-          "content": "Walking (highly recommended): Just 5-8 minutes walk from Freedom Square (Trg Slobode) in the city center to the park's main entrance. Public transit: Multiple city bus lines stop near the park (such as 3, 6, 9, 11A, 11B). Driving/Taxi: Paid parking is available at the park's edges. Taxi from the city center takes about 10 minutes."
+          "content": "Walking (highly recommended): Just 5-8 minutes walk from Freedom Square (Trg Slobode) in the city center to the park's main entrance. Public transit: Multiple city bus lines stop near the park (such as 3, 6, 9, 11A, 11B). Driving/Taxi: Paid parking is available at the park's edges (red/blue zones by hourly rate). Taxi from the city center takes about 10 minutes."
+        },
+        {
+          "id": "contact",
+          "title": "Contact Information",
+          "content": "Phone: +381-21-661-7343 (Novi Sad Tourism Organization)\nAddress: Dunavska 31, Novi Sad, Serbia\nGoogle Maps: https://maps.app.goo.gl/E6HawmK7Vd49MgbS9"
         },
         {
           "id": "photography",
           "title": "Photography Tips",
-          "content": "Best photo spots: ① Weeping Willow & Lake: Stand by the lake with hanging willow branches as foreground, capturing swans and the green forest across. ② White Music Pavilion: Frame this elegant classical pavilion against lush green trees. ③ Tree-Lined Path: Use a telephoto lens at dawn or dusk to capture tall ancient trees extending into the distance. Natural light is fragmented by the canopy; watch for dappled shadows on faces when shooting portraits."
+          "content": "Best photo spots: ① Weeping Willow & Lake: Stand by the lake with hanging willow branches as foreground, capturing swans and the green forest across. ② White Music Pavilion: Frame this elegant classical pavilion against lush green trees. ③ Tree-Lined Path: Use a telephoto lens at dawn or dusk to capture tall ancient trees extending into the distance. ④ Autumn Foliage Lawn: Late October to November, golden fallen leaves cover the ground, perfect for autumn romance photography.\nAdditional Notes: Natural light is fragmented by the canopy; watch for dappled shadows on faces when shooting portraits. Large commercial photography equipment (rails, multiple reflectors) is prohibited on walkways; casual travel photography is unrestricted."
         }
       ]
     },

@@ -3,6 +3,7 @@ import DanubeParkHeader from '@/components/DanubeParkHeader';
 import Hero from '@/components/Hero';
 import DanubeParkIntro from '@/components/DanubeParkIntro';
 import DanubeParkInfoSection from '@/components/DanubeParkInfoSection';
+import DanubeParkPracticalInfo from '@/components/DanubeParkPracticalInfo';
 import DanubeParkGallery from '@/components/DanubeParkGallery';
 import DanubeParkAccommodation from '@/components/DanubeParkAccommodation';
 import DanubeParkReviews from '@/components/DanubeParkReviews';
@@ -28,6 +29,7 @@ export default async function DanubeParkPage({
         />
         <DanubeParkIntro />
         <DanubeParkInfoSection />
+        <DanubeParkPracticalInfo />
         <DanubeParkGallery />
         <DanubeParkAccommodation />
         <DanubeParkReviews />

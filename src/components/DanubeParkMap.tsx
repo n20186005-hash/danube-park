@@ -25,7 +25,7 @@ export default function DanubeParkMap() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2806.5234567890123!2d19.8455!3d45.2567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDXCsDE1JzI0LjAiTiAxOcKwNTAnNDQuMCJF!5e0!3m2!1sen!2srs!4v1234567890123!5m2!1sen!2srs"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2000!2d19.8493!3d45.2557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b107c8f6b7d2d%3A0x3c38f3c0e7f8e1a2!2sDanube%20Park%20Novi%20Sad!5e0!3m2!1sen!2srs!4v1700000000000!5m2!1sen!2srs"
             width="100%"
             height="450"
             style={{ border: 0 }}
