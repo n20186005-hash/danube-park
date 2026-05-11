@@ -120,9 +120,11 @@
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与信息",
     "officialLinks": {
-      "tourism": "诺维萨德旅游局",
-      "museums": "诺维萨德城市博物馆",
-      "library": "诺维萨德图书馆"
+      "serbia": "Serbia Tourism Board",
+      "vojvodina": "Vojvodina Tourism Organization",
+      "novisad": "Visit Novi Sad",
+      "grad": "Grad Novi Sad",
+      "nature": "Institute for Nature Conservation of Vojvodina Province"
     },
     "disclaimer": "本网站是独立的第三方旅游资讯项目，与当地政府或任何官方机构均无关联。",
     "title": "多瑙河公园"

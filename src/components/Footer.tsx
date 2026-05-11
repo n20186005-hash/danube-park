@@ -21,14 +21,20 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
-              <a href="https://novisad.travel/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.tourism')}
+              <a href="https://www.serbia.travel/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.serbia')}
               </a>
-              <a href="https://www.museumnovisad.rs/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.museums')}
+              <a href="https://vojvodina.travel/en/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.vojvodina')}
               </a>
-              <a href="http://www.gbns.rs/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.library')}
+              <a href="https://novisad.travel/en/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.novisad')}
+              </a>
+              <a href="https://www.novisad.rs/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.grad')}
+              </a>
+              <a href="https://www.pzzp.rs/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.nature')}
               </a>
             </div>
           </div>

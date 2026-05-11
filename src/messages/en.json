@@ -120,9 +120,11 @@
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "tourism": "Novi Sad Tourist Organization",
-      "museums": "Museum of Novi Sad",
-      "library": "Novi Sad Library"
+      "serbia": "Serbia Tourism Board",
+      "vojvodina": "Vojvodina Tourism Organization",
+      "novisad": "Visit Novi Sad",
+      "grad": "Grad Novi Sad",
+      "nature": "Institute for Nature Conservation of Vojvodina Province"
     },
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
     "title": "Danube Park"
